@@ -20,8 +20,6 @@ Jeder Zettel hat einen Verantwortlichen MA, einem MA können bis zu 3 Zettel zug
 
 Jeder Zettel hat 0-n Vorgänger und Nachfolger.
 
-
-
 Anforderungen:
 - Anzeigen/Filtern der Zettel nach Buckets & Mitarbeitern (M) X
 - Verschieben der Zettel (M) X
@@ -35,4 +33,18 @@ Anforderungen:
 
 - Löschen der Zettel (C)
 - Verbliebene Zeit bis Fälligkeit berechnen (C) 
- 
+- Beschreibung(Item) anzeigen (C)
+
+
+Ausgabe PrintBoard
+Board für ProjektName
+Bucket.Name1
+Titel1		    |Titel2		    |Titel3		    |
+Dauer1		    |Dauer2		    |Dauer3		    |		
+…
+
+Bucket.Name2
+Titel4		    |Titel5		    |Titel6		    |
+Dauer4		    |Dauer5		    |Dauer6		    |
+...
+
